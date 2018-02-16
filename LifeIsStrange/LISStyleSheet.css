@@ -56,6 +56,11 @@ li {
      margin-right: 30px;
  }
 
+.resize{
+    height: 50px;
+    width: 25px:
+}
+
 .carousel-wrapper {
     height: 200px;
     position: relative;
